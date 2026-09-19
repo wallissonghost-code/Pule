@@ -1,0 +1,1 @@
+(()=>{'use strict';window.PULE_CONFIG=Object.freeze({gameId:'pule',version:'Alpha 0.1.0',totalBlocks:10000,winTarget:10,startProgress:0,autoJumpMs:680,fallRecoverMs:650,visibleAhead:13,visibleBehind:5,panelStorageKey:'pule-liveplus-token',panelCodeKey:'pule-panel-code'});})();
